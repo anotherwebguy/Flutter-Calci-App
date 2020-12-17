@@ -1,6 +1,7 @@
 # calc_app
 
-A new Flutter application.
+A new Flutter application.<br />
+The app ia able to perform all calculator operations
 
 ## Getting Started
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+<img src="Screenshot_1608181323.png">
+<img src="Screenshot_1608181344.png">
